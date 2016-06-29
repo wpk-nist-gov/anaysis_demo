@@ -1,3 +1,3 @@
 # Short intro to python
 
-* open index.ipynb
+* click on [index](./index.ipynb) to get

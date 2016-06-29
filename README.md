@@ -1,3 +1,3 @@
 # Short intro to python
 
-* click on [index](./index.ipynb) to get
+* [click here](./index.ipynb) to launch notebook(s)
